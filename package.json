@@ -1,0 +1,23 @@
+{
+  "name": "lazyminting",
+  "version": "1.0.0",
+  "description": "This is a package for lazy minting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siya",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@openzeppelin/contracts": "^4.1.0",
+    "chai": "^4.3.6",
+    "ethers": "^5.0.18",
+    "hardhat": "^2.11.1",
+    "mocha": "^10.0.0"
+  },
+  "dependencies": {
+    "node": "^18.9.0"
+  }
+}
